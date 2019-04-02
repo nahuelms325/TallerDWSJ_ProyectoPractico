@@ -1,0 +1,13 @@
+Esta web sera para sobre fotografias o imagenes en general, de posteo y foros para hablar sobre las imagenes subidas.
+
+SECCIONES:
+
+Inicio: es la bienvenida de la pagina, es la que se ve en la imagen de pdf
+
+Galeria de imagenes: mostrara las imagenes subidas de los distintos usuarios por orden de tiempo de subido, al entrara aqui se dara la opcion de registararse o loguearse a la pagina. esto dara paso a las opciones de descargar o subir imagenes.
+
+Foros: en esta seccion se entrara a la parte de foros de la pagina que se tratara de alguna imagen en particular subida por algun usuario, donde los usuarios podran comunicarse a traves de el entre si y opinar sobre las fotos de los distintos foros. asi como la capacidad de votar por algun foro para hacerlo mas popular.
+
+Redes sociales: seran los enlaces a las distintas redes sociales que podra tener la pagina.
+
+Contactenos: Telefonos y correos de los administradores de la pagina para hacer consultas o sugerencias.
